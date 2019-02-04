@@ -1,1 +1,2 @@
 # Linear-regression-in-Matlab
+This repository includes my implementation of Linear/polynomial regression using normal equation. The implementation consists of implementation of Cost function, Normal Equation, and driver code. This code automatically performs analysis on performance of model by tuning parameters like polynomial features, number of training data points and Lambda. It generates charts for comparison of results obtained by combination of these parameter.
